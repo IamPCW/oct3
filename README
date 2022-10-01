@@ -1,0 +1,15 @@
+To unzip the folder,follow the steps:
+
+> $sudo apt install zip unzip
+(to install zip and unzip tools)
+
+> $sudo unzip Gugugi1.zip
+
+> Enter the password to verify that you are gugugi
+
+> Done!
+
+Now follow README file inside Gugugi1 for further installation and execution!
+
+~samsss
+
